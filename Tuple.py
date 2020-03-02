@@ -1,0 +1,5 @@
+tup1=('a','b','c')
+tup2=('d','e')
+print(tup1)
+print(tup2)
+print(tup1+tup2)
