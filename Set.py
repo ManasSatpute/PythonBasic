@@ -1,5 +1,0 @@
-Set=set(["a","b","c"])
-print(Set)
-x=input("Enter charector you want to add in this set - ")
-Set.add(x)
-print(Set)
