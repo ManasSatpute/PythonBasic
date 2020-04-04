@@ -1,0 +1,6 @@
+t = ('a','b','c','d')
+print(t)
+l=list(t)
+l.append(input("Enter element to be added - "))
+t=tuple(l)
+print(t)
